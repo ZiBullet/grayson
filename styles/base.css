@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+:root {
+    --PR: Playfair-Display, sans-serif;
+    --black: #000;
+    --grey: #666;
+    --green: #41a28e;
+    --light-black: #121212;
+}
+.container {
+    max-width: 1140px;
+    width: 100%;
+    height: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+body {
+    font-family: var(--PR);
+}
