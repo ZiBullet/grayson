@@ -7,10 +7,12 @@
 }
 :root {
     --PR: Playfair-Display, sans-serif;
+    --RR: Roboto-Regular, sans-serif;
     --black: #000;
     --grey: #666;
     --green: #41a28e;
     --light-black: #121212;
+    --white: #fff;
 }
 .container {
     max-width: 1140px;

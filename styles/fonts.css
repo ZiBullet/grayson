@@ -3,3 +3,8 @@
     src: url("../fonts/PlayfairDisplay-Regular.ttf") format("truetype");
     font-weight: 400;
 }
+@font-face {
+    font-family: Roboto-Regular;
+    src: url("../fonts/Roboto-Regular.ttf") format("truetype");
+    font-weight: 400;
+}
