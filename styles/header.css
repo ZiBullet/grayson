@@ -124,6 +124,9 @@
     .header__nav-list {
         gap: 20px;
     }
+    .header__nav-list-item:nth-child(3):hover .header__nav-list-item-drop-down {
+        bottom: -130px;
+    }
 }
 @media screen and (max-width: 870px) {
     .header__nav {
